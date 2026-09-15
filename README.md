@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="olx-scraper" />
+    <img src="https://github.com/user-attachments/assets/13fb7814-dcd8-45f2-8040-e9a86e828635" alt="olx-scraper" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/olx-scraper/workflows/checks/badge.svg)](https://github.com/ScrapingBee/olx-scraper/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/olx-scraper.svg)](LICENSE)
